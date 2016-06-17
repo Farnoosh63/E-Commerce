@@ -5,8 +5,9 @@ export default Ember.Component.extend({
   totalCostShoppingCart: Ember.computed('shopping.items.[]', function(){
     var totalCost=0;
     for (var item of this.get('shopping.items')) {
-      totalCost+= item.cost;
+      totalCost+= parseInt(item.get('price'));
     }
+    debugger;
     return totalCost;
   }),
   actions: {
