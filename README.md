@@ -1,7 +1,5 @@
 
-# Week 4: Javascript - Ember Extended Pair Project
-
-### Project: My Store
+### Project: E-Commerce
 
 #### By Fernanda Lowe and Farnoosh Johnson
 
