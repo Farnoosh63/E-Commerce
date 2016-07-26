@@ -1,20 +1,20 @@
 
-### Project: E-Commerce
+# E-Commerce
 
-#### By Fernanda Lowe and Farnoosh Johnson
+##### By Fernanda Lowe and Farnoosh Johnson
 
 
-## Project Description
+### Project Description
 
 This is an e-commerce website that allow users/shoppers to add multiple items to their shopping cart, to see the total cost of all items in the cart, to select an item and see a description, cost, and other details, and to see list of products on sale.
 On the admin or seller side, it allows you to add, update or remove products you wish to.
 
-## Ember Description
+### Ember Description
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
-## Prerequisites
+### Prerequisites
 
 You will need the following things properly installed on your computer.
 
@@ -24,37 +24,37 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](http://ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
 
-## Installation
+### Installation
 
 * `git clone <repository-url>` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
 
-## Running / Development
+### Running / Development
 
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
+#### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
 
-### Running Tests
+#### Running Tests
 
 * `ember test`
 * `ember test --server`
 
-### Building
+#### Building
 
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+#### Deploying
 
 Specify what it takes to deploy your app.
 
-## Further Reading / Useful Links
+### Further Reading / Useful Links
 
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://ember-cli.com/)
